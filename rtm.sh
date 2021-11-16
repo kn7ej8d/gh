@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Timeout=3200 # 30 minutes
+Timeout=600 # 30 minutes
 
 function timeout_monitor() {
    sleep "$Timeout"
